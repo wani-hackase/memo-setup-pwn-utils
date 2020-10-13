@@ -7,7 +7,7 @@ ubuntu 18.04を想定しています。
 標準で入っているかと。
 入ってなかったら
 `sudo apt-get install netcat`
-?
+でインストール。
 
 # strings
 
@@ -62,4 +62,19 @@ conda deactivate
 
 ```
 conda activate pwn
+```
+
+
+# ghidra
+
+[https://ghidra-sre.org/](https://ghidra-sre.org/)からダウンロードします。
+
+```
+http --download https://ghidra-sre.org/ghidra_9.1.2_PUBLIC_20200212.zip
+```
+
+javaが必要なのでjavaもインストールします。
+
+```
+sudo apt-get install default-jre
 ```
