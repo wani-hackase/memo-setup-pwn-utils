@@ -27,6 +27,10 @@ apt-get install binutils
 
 あると便利なので入れておく
 
+```
+apt-get install httpie
+```
+
 # python
 
 [htttpie](#httpie)がインストールされているという前提でminicondaのインストール方法を書いておきます。
