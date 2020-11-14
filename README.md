@@ -64,6 +64,12 @@ conda deactivate
 conda activate pwn
 ```
 
+# ROPgadget
+
+```
+conda activate pwn
+pip install ropgadget
+```
 
 # ghidra
 
