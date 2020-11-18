@@ -71,6 +71,14 @@ conda activate pwn
 pip install ropgadget
 ```
 
+# one_gadget
+
+```
+sudo apt-get install ruby
+sudo gem update
+sudo gem install one_gadget
+```
+
 # ghidra
 
 [https://ghidra-sre.org/](https://ghidra-sre.org/)からダウンロードします。
