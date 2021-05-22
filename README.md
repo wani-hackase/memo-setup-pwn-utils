@@ -92,3 +92,8 @@ javaが必要なのでjavaもインストールします。
 ```
 sudo apt-get install default-jre
 ```
+
+# Pwndbg + GEF + Peda
+
+- [apogiatzis/gdb-peda-pwndbg-gef: A script to automatically install Peda+pwndbg+GEF plugins for gdb](https://github.com/apogiatzis/gdb-peda-pwndbg-gef)
+
